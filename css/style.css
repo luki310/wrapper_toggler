@@ -6,10 +6,14 @@ body {
     margin: auto;
 }
 
-.container .row {
-    height: calc(100vh - 95px);
+.row {
+    margin: 20px 0;
 }
 
 .footer > nav > span {
     font-size: 9px;
+}
+
+#button {
+    margin: 30px 35%;
 }
